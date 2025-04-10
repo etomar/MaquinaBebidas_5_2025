@@ -4,7 +4,7 @@ class DispensadorDeBotes{
 
     /* Inicializa el dispensador y pone i botes en él*/
     /* Entrada: int i, numero de botes en el dispensador*/
-    /* Salidas: Ninguna */
+    /* Salidas: Ningun */
     public DispensadorDeBotes (int i){
         this.botes = i;
     }
