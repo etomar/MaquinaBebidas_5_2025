@@ -9,6 +9,7 @@ package maquinabebidas_5_2025;
  * Clase MaquinaDeBebidas
  */
 class MaquinaDeBebidas {
+    
     private ContadorDeMonedas contador; //Contador de monedas de la maquina
     private DispensadorDeBotes cola, limon, naranja, tonica, agua; //Cinco dispensadores de botes
     private float precio; //Precio de las bebidas(común para todas)
